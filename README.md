@@ -12,7 +12,7 @@ La idea de este sistema surge con el propósito de crear una herramienta de adqu
 # DER:
 ![Image text](https://github.com/gustavorio/TP-especial-de-WEB-2-de-2025/blob/main/SQL%20de%20ciber%20dragon.png)
 
-# Breve explicación:
+# Breve_explicación:
 El sitio actualmente funciona en modo de vista previa. Esto significa que los usuarios pueden visualizar los datos disponibles, pero no tienen la posibilidad de modificarlos, agregarlos ni eliminarlos. Además, se ha habilitado una cuenta de acceso para pruebas, utilizando el nombre de usuario **“webadmin”** y la contraseña **“admin”**, con el fin de demostrar el funcionamiento básico del sistema.
 
 # Explicación:
